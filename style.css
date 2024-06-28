@@ -18,6 +18,7 @@ body {
     justify-content: space-between;
     padding: 5px 20px;
     position: fixed;
+    box-sizing: border-box;
 }
 
 .nav-logo {
@@ -208,7 +209,7 @@ body {
         background-color: #303030;
         padding: 10px 14px;
         border-radius: 20px;
-        margin-right: 30px;
+        margin: 0;
         font-size: 14px;
     }
 
